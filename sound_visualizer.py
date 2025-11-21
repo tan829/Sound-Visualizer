@@ -2,7 +2,6 @@ import pygame
 import numpy as np
 import sounddevice as sd
 from random import uniform
-import math
 
 # 音频配置（全平台兼容）
 samplerate = 44100
